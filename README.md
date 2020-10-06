@@ -24,7 +24,7 @@ Once the container is set up, you will now access the bash terminal of the tf2 d
 `git` has already been installed in the container. Run below command from within the tf2 container terminal:
 
 ```bash
-git clone https://github.com/rosalynnyang/NLP_other_specify_classification.git
+git clone https://github.com/ElvinOuyang/ActiveCoder.git
 ```
 After you've entered your credentials, the repo should be available at `~/tf/` folder.
 
@@ -33,7 +33,7 @@ After you've entered your credentials, the repo should be available at `~/tf/` f
 Follow below command to relocate to the repository:
 
 ```bash
-cd /tf/NLP_other_specify_classification
+cd /tf/ActiveCoder
 ```
 
 Then run below bash script to finish the env set up:
