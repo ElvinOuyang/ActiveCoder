@@ -14,9 +14,14 @@ ssh -L 127.0.0.1:8000:localhost:8888 username@000.000.000.000 # local server IP 
 ssh -R 127.0.0.1:8000:localhost:8888 username@id.server.com # remote server public url
 ```
 
-### Once inside the server running docker, run below code to fire up a tensorflow gpu container:
+### Once inside the server running docker, locate to the `~/Documents` folder
 ```bash
-sudo docker run --gpus all -it -p 8888:8888 -p 6006:6006 tensorflow/tensorflow:latest-gpu-jupyter /bin/bash
+cd ~/Documents
+```
+
+### Run below code to fire up a tensorflow gpu container:
+```bash
+sudo docker run --gpus all -it -p 8888:8888 -p 6006:6006 -v "$PWD":/tf/work tensorflow/tensorflow:latest-gpu-jupyter /bin/bash
 ```
 Once the container is set up, you will now access the bash terminal of the tf2 docker container
 
