@@ -1,0 +1,171 @@
+round_id,tag_name,train_roc_auc,train_f1,train_precision,train_recall,train_cr,train_kappa,train_pos_rate,test_roc_auc,test_f1,test_precision,test_recall,test_cr,test_kappa,test_pos_rate
+1,lock,0.998325893,0.978422619,0.939393939,0.96875,"              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99       168
+           1       0.94      0.97      0.95        32
+
+    accuracy                           0.98       200
+   macro avg       0.97      0.98      0.97       200
+weighted avg       0.99      0.98      0.99       200
+",0.944893461,0.16,0.786570073,0.792071399,0.716363636,0.623417722,"              precision    recall  f1-score   support
+
+           0       0.94      0.96      0.95      1986
+           1       0.72      0.62      0.67       316
+
+    accuracy                           0.91      2302
+   macro avg       0.83      0.79      0.81      2302
+weighted avg       0.91      0.91      0.91      2302
+",0.617847073,0.137271937
+1,video_doorbell,1,0.970588235,1,0.941176471,"              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00       183
+           1       1.00      0.94      0.97        17
+
+    accuracy                           0.99       200
+   macro avg       1.00      0.97      0.98       200
+weighted avg       1.00      0.99      0.99       200
+",0.966974901,0.085,0.906616524,0.908356432,0.9375,0.825242718,"              precision    recall  f1-score   support
+
+           0       0.97      0.99      0.98      1993
+           1       0.94      0.83      0.88       309
+
+    accuracy                           0.97      2302
+   macro avg       0.96      0.91      0.93      2302
+weighted avg       0.97      0.97      0.97      2302
+",0.860230244,0.134231103
+1,gate,0.998375569,0.978395062,0.844444444,1,"              precision    recall  f1-score   support
+
+           0       1.00      0.96      0.98       162
+           1       0.84      1.00      0.92        38
+
+    accuracy                           0.96       200
+   macro avg       0.92      0.98      0.95       200
+weighted avg       0.97      0.96      0.97       200
+",0.893778452,0.19,0.891951823,0.858954688,0.596899225,0.825737265,"              precision    recall  f1-score   support
+
+           0       0.96      0.89      0.93      1929
+           1       0.60      0.83      0.69       373
+
+    accuracy                           0.88      2302
+   macro avg       0.78      0.86      0.81      2302
+weighted avg       0.90      0.88      0.89      2302
+",0.621769417,0.162033015
+1,lights,0.93981982,0.658558559,0.625,0.333333333,"              precision    recall  f1-score   support
+
+           0       0.95      0.98      0.97       185
+           1       0.62      0.33      0.43        15
+
+    accuracy                           0.94       200
+   macro avg       0.79      0.66      0.70       200
+weighted avg       0.92      0.94      0.93       200
+",0.403669725,0.075,0.814737397,0.546797492,0.590909091,0.097744361,"              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97      2169
+           1       0.59      0.10      0.17       133
+
+    accuracy                           0.94      2302
+   macro avg       0.77      0.55      0.57      2302
+weighted avg       0.93      0.94      0.92      2302
+",0.153864565,0.057775847
+1,intercom,1,1,1,1,"              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       189
+           1       1.00      1.00      1.00        11
+
+    accuracy                           1.00       200
+   macro avg       1.00      1.00      1.00       200
+weighted avg       1.00      1.00      1.00       200
+",1,0.055,0.592388291,0.595246249,0.628571429,0.196428571,"              precision    recall  f1-score   support
+
+           0       0.96      0.99      0.98      2190
+           1       0.63      0.20      0.30       112
+
+    accuracy                           0.96      2302
+   macro avg       0.79      0.60      0.64      2302
+weighted avg       0.94      0.96      0.94      2302
+",0.282701162,0.048653345
+1,dog,0.952432432,0.925225225,0.8125,0.866666667,"              precision    recall  f1-score   support
+
+           0       0.99      0.98      0.99       185
+           1       0.81      0.87      0.84        15
+
+    accuracy                           0.97       200
+   macro avg       0.90      0.93      0.91       200
+weighted avg       0.98      0.97      0.98       200
+",0.825174825,0.075,0.818571795,0.611108438,0.457627119,0.236842105,"              precision    recall  f1-score   support
+
+           0       0.96      0.99      0.97      2188
+           1       0.46      0.24      0.31       114
+
+    accuracy                           0.95      2302
+   macro avg       0.71      0.61      0.64      2302
+weighted avg       0.94      0.95      0.94      2302
+",0.28809181,0.049522155
+1,guard_ID_resident,0.98027898,0.853054353,0.666666667,0.727272727,"              precision    recall  f1-score   support
+
+           0       0.98      0.98      0.98       189
+           1       0.67      0.73      0.70        11
+
+    accuracy                           0.96       200
+   macro avg       0.83      0.85      0.84       200
+weighted avg       0.97      0.96      0.97       200
+",0.677121771,0.055,0.701905229,0.57175585,0.195402299,0.175257732,"              precision    recall  f1-score   support
+
+           0       0.96      0.97      0.97      2205
+           1       0.20      0.18      0.18        97
+
+    accuracy                           0.93      2302
+   macro avg       0.58      0.57      0.58      2302
+weighted avg       0.93      0.93      0.93      2302
+",0.150950355,0.042137272
+1,security_screen_door,1,1,1,1,"              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       191
+           1       1.00      1.00      1.00         9
+
+    accuracy                           1.00       200
+   macro avg       1.00      1.00      1.00       200
+weighted avg       1.00      1.00      1.00       200
+",1,0.045,0.841848751,0.83742475,0.721153846,0.688073394,"              precision    recall  f1-score   support
+
+           0       0.98      0.99      0.99      2193
+           1       0.72      0.69      0.70       109
+
+    accuracy                           0.97      2302
+   macro avg       0.85      0.84      0.84      2302
+weighted avg       0.97      0.97      0.97      2302
+",0.689886112,0.04735013
+1,warning_sign,1,0.994475138,0.904761905,1,"              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       181
+           1       0.90      1.00      0.95        19
+
+    accuracy                           0.99       200
+   macro avg       0.95      0.99      0.97       200
+weighted avg       0.99      0.99      0.99       200
+",0.944459872,0.095,0.732024496,0.726628679,0.677419355,0.477272727,"              precision    recall  f1-score   support
+
+           0       0.95      0.98      0.96      2082
+           1       0.68      0.48      0.56       220
+
+    accuracy                           0.93      2302
+   macro avg       0.81      0.73      0.76      2302
+weighted avg       0.92      0.93      0.92      2302
+",0.522256462,0.09556907
+1,none,0.962890625,0.6875,1,0.375,"              precision    recall  f1-score   support
+
+           0       0.97      1.00      0.99       192
+           1       1.00      0.38      0.55         8
+
+    accuracy                           0.97       200
+   macro avg       0.99      0.69      0.77       200
+weighted avg       0.98      0.97      0.97       200
+",0.535315985,0.04,0.813519946,0.536005024,0.777777778,0.072916667,"              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98      2206
+           1       0.78      0.07      0.13        96
+
+    accuracy                           0.96      2302
+   macro avg       0.87      0.54      0.56      2302
+weighted avg       0.95      0.96      0.94      2302
+",0.127092865,0.041702867
