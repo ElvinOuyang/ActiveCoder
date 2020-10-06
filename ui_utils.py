@@ -435,7 +435,7 @@ class MetaProjectWithRounds(object):
             round_path = f"{config_project_path.rstrip('/')}/round_{round_id + 1}/"
             self.rounds[round_id + 1] = RoundResult(
                 round_path=round_path, answer_file=self.answer_file, 
-                proba_cutoff=self.proba_cutoff)
+                proba_cutoff=self.proba_cutoff, rundir=self.rundir)
             self.round_results[round_id + 1] = self.rounds[round_id + 1].round_results
             self.round_outputs[round_id + 1] = self.rounds[round_id + 1].round_outputs
         self._flatten_results()

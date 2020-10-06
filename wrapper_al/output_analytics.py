@@ -54,6 +54,8 @@ parsed_project = ui_utils.MetaProjectWithRounds(
     project_path=args.project_path, rundir=args.run_dir,
     alternative_cutoff=alternative_cutoff)
 
+parsed_project.describe()
+
 print(">>> Output processed. Saving flatten model metrics to project folder")
 analytics_dir = f"{args.project_path.rstrip('/')}/analytics/"
 
