@@ -1,0 +1,502 @@
+[
+  {
+    "UID":0,
+    "Text":"REPLACE SUGAR",
+    "Tags":""
+  },
+  {
+    "UID":1,
+    "Text":"Only treat my dog will eat!",
+    "Tags":"pet"
+  },
+  {
+    "UID":2,
+    "Text":"A true classic candy bar with a controversial name",
+    "Tags":""
+  },
+  {
+    "UID":3,
+    "Text":"The Real Deal",
+    "Tags":"price"
+  },
+  {
+    "UID":4,
+    "Text":"What a BARGIN!!",
+    "Tags":"price"
+  },
+  {
+    "UID":5,
+    "Text":"I don't have to travel to Minnesota",
+    "Tags":""
+  },
+  {
+    "UID":6,
+    "Text":"Bought it for my dog, but love it for myself!",
+    "Tags":"pet"
+  },
+  {
+    "UID":7,
+    "Text":"My Current Favorite Bold and Rich KCup!",
+    "Tags":""
+  },
+  {
+    "UID":8,
+    "Text":"Pretty good",
+    "Tags":""
+  },
+  {
+    "UID":9,
+    "Text":"Great for the skin!",
+    "Tags":""
+  },
+  {
+    "UID":10,
+    "Text":"my cats love this food!",
+    "Tags":"pet"
+  },
+  {
+    "UID":11,
+    "Text":"give this product a try",
+    "Tags":""
+  },
+  {
+    "UID":12,
+    "Text":"Awesome!",
+    "Tags":""
+  },
+  {
+    "UID":13,
+    "Text":"crunchy oat-y cookie",
+    "Tags":"taste"
+  },
+  {
+    "UID":14,
+    "Text":"this is amazing",
+    "Tags":""
+  },
+  {
+    "UID":15,
+    "Text":"Grain free Core cured runny eyes in my two cats",
+    "Tags":"pet"
+  },
+  {
+    "UID":16,
+    "Text":"PEPPERIDGE FARM GOLDFISH CHOCOLATE GRAHAM CRACKERS(PACK OF 8)",
+    "Tags":""
+  },
+  {
+    "UID":17,
+    "Text":"Rancid Smell and Taste",
+    "Tags":"taste"
+  },
+  {
+    "UID":18,
+    "Text":"Breakfast and Dessert Fries!",
+    "Tags":""
+  },
+  {
+    "UID":19,
+    "Text":"Wonderful Cracker - Poor Shipping & Handling",
+    "Tags":""
+  },
+  {
+    "UID":20,
+    "Text":"Nice spice!",
+    "Tags":"taste"
+  },
+  {
+    "UID":21,
+    "Text":"Tasty!",
+    "Tags":"taste"
+  },
+  {
+    "UID":22,
+    "Text":"Didn't taste good for me.",
+    "Tags":"taste"
+  },
+  {
+    "UID":23,
+    "Text":"A Macrobiotic Kid's Dream",
+    "Tags":""
+  },
+  {
+    "UID":24,
+    "Text":"Satisfactory as a light meal or heavy snack",
+    "Tags":""
+  },
+  {
+    "UID":25,
+    "Text":"Not What I Expected",
+    "Tags":""
+  },
+  {
+    "UID":26,
+    "Text":"Great chew toy",
+    "Tags":"pet"
+  },
+  {
+    "UID":27,
+    "Text":"Delicious!",
+    "Tags":"taste"
+  },
+  {
+    "UID":28,
+    "Text":"These cookies are $2.19 in my SuperMarket",
+    "Tags":"price"
+  },
+  {
+    "UID":29,
+    "Text":"Waaaaay too sour. And too spicy for something called mild.",
+    "Tags":"taste"
+  },
+  {
+    "UID":30,
+    "Text":"Over Priced by seller",
+    "Tags":"price"
+  },
+  {
+    "UID":31,
+    "Text":"Possibly best mix ever",
+    "Tags":""
+  },
+  {
+    "UID":32,
+    "Text":"Cesar Dog Food",
+    "Tags":"pet"
+  },
+  {
+    "UID":33,
+    "Text":"Good for you in every way",
+    "Tags":""
+  },
+  {
+    "UID":34,
+    "Text":"Ripoff!!",
+    "Tags":"price"
+  },
+  {
+    "UID":35,
+    "Text":"Like Hazlenut coffee? YES!!",
+    "Tags":"taste"
+  },
+  {
+    "UID":36,
+    "Text":"Worst company to deal with",
+    "Tags":""
+  },
+  {
+    "UID":37,
+    "Text":"Huge fun.",
+    "Tags":""
+  },
+  {
+    "UID":38,
+    "Text":"Great Merguez",
+    "Tags":""
+  },
+  {
+    "UID":39,
+    "Text":"A better choice for the environment",
+    "Tags":""
+  },
+  {
+    "UID":40,
+    "Text":"Taste like the regular sweetened maple syrup except for.....",
+    "Tags":"taste"
+  },
+  {
+    "UID":41,
+    "Text":"Great product, great price",
+    "Tags":"price"
+  },
+  {
+    "UID":42,
+    "Text":"MEGA PACK!",
+    "Tags":""
+  },
+  {
+    "UID":43,
+    "Text":"Chips Rancid Despite December 2010 exp date",
+    "Tags":""
+  },
+  {
+    "UID":44,
+    "Text":"Excellent bold coffee",
+    "Tags":""
+  },
+  {
+    "UID":45,
+    "Text":"This is good stuff",
+    "Tags":""
+  },
+  {
+    "UID":46,
+    "Text":"Mario Batali Cherry Tomato Sauce",
+    "Tags":""
+  },
+  {
+    "UID":47,
+    "Text":"not excellent anymore",
+    "Tags":""
+  },
+  {
+    "UID":48,
+    "Text":"Awful",
+    "Tags":""
+  },
+  {
+    "UID":49,
+    "Text":"Genius!",
+    "Tags":""
+  },
+  {
+    "UID":50,
+    "Text":"terrific product",
+    "Tags":""
+  },
+  {
+    "UID":51,
+    "Text":"Thomy Mustard Maniac",
+    "Tags":"taste"
+  },
+  {
+    "UID":52,
+    "Text":"lovely taste",
+    "Tags":"taste"
+  },
+  {
+    "UID":53,
+    "Text":"Peanut Gutter!",
+    "Tags":""
+  },
+  {
+    "UID":54,
+    "Text":"Very Dry",
+    "Tags":"taste"
+  },
+  {
+    "UID":55,
+    "Text":"Son loves these!",
+    "Tags":""
+  },
+  {
+    "UID":56,
+    "Text":"Great, but...",
+    "Tags":""
+  },
+  {
+    "UID":57,
+    "Text":"Delicious & creamy",
+    "Tags":"taste"
+  },
+  {
+    "UID":58,
+    "Text":"From horrible to excellent",
+    "Tags":""
+  },
+  {
+    "UID":59,
+    "Text":"Easy, fun, good",
+    "Tags":""
+  },
+  {
+    "UID":60,
+    "Text":"Above-Average But Not Amazing",
+    "Tags":""
+  },
+  {
+    "UID":61,
+    "Text":"Great Breakfast flavor!",
+    "Tags":"taste"
+  },
+  {
+    "UID":62,
+    "Text":"Great Bags",
+    "Tags":""
+  },
+  {
+    "UID":63,
+    "Text":"Made My Dog Sick",
+    "Tags":"pet"
+  },
+  {
+    "UID":64,
+    "Text":"chocolatey goodness",
+    "Tags":"taste"
+  },
+  {
+    "UID":65,
+    "Text":"rip off",
+    "Tags":"price"
+  },
+  {
+    "UID":66,
+    "Text":"Love this starter kit",
+    "Tags":""
+  },
+  {
+    "UID":67,
+    "Text":"Great if ....you want to grow bugs!!",
+    "Tags":""
+  },
+  {
+    "UID":68,
+    "Text":"Really Good Juice!",
+    "Tags":""
+  },
+  {
+    "UID":69,
+    "Text":"No Caffeine Boost",
+    "Tags":""
+  },
+  {
+    "UID":70,
+    "Text":"Really Good Tea",
+    "Tags":""
+  },
+  {
+    "UID":71,
+    "Text":"Traditional quality that never misses",
+    "Tags":""
+  },
+  {
+    "UID":72,
+    "Text":"Creamiest brand ever",
+    "Tags":"taste"
+  },
+  {
+    "UID":73,
+    "Text":"Bacon Curls",
+    "Tags":""
+  },
+  {
+    "UID":74,
+    "Text":"Fabulous product!",
+    "Tags":""
+  },
+  {
+    "UID":75,
+    "Text":"Big Sur Camping",
+    "Tags":""
+  },
+  {
+    "UID":76,
+    "Text":"Disappointed",
+    "Tags":""
+  },
+  {
+    "UID":77,
+    "Text":"Zuke's Mini Naturals Dog Treats Roasted Chicken Recipe, 16-Ounce",
+    "Tags":"pet"
+  },
+  {
+    "UID":78,
+    "Text":"Best Cracker Ever!",
+    "Tags":""
+  },
+  {
+    "UID":79,
+    "Text":"Old fashoned goodness",
+    "Tags":""
+  },
+  {
+    "UID":80,
+    "Text":"Not the real deal but very very good",
+    "Tags":""
+  },
+  {
+    "UID":81,
+    "Text":"Robsmom",
+    "Tags":""
+  },
+  {
+    "UID":82,
+    "Text":"Yum",
+    "Tags":"taste"
+  },
+  {
+    "UID":83,
+    "Text":"price per cup FYI",
+    "Tags":"price"
+  },
+  {
+    "UID":84,
+    "Text":"Sweet on sweet mint gum!",
+    "Tags":"taste"
+  },
+  {
+    "UID":85,
+    "Text":"Good bones at a good price",
+    "Tags":"price"
+  },
+  {
+    "UID":86,
+    "Text":"It was - Ok...",
+    "Tags":""
+  },
+  {
+    "UID":87,
+    "Text":"Light and Mellow",
+    "Tags":"taste"
+  },
+  {
+    "UID":88,
+    "Text":"Non purchaser, but need to ask ques., and don't know where to ask.",
+    "Tags":""
+  },
+  {
+    "UID":89,
+    "Text":"Highly addicitive chips",
+    "Tags":""
+  },
+  {
+    "UID":90,
+    "Text":"Horrible!!",
+    "Tags":""
+  },
+  {
+    "UID":91,
+    "Text":"Dog is sick from this",
+    "Tags":"pet"
+  },
+  {
+    "UID":92,
+    "Text":"Influenster Review",
+    "Tags":""
+  },
+  {
+    "UID":93,
+    "Text":"BUYER BEWARE",
+    "Tags":""
+  },
+  {
+    "UID":94,
+    "Text":"Looking for years - found it on amazon",
+    "Tags":""
+  },
+  {
+    "UID":95,
+    "Text":"Cats love it",
+    "Tags":"pet"
+  },
+  {
+    "UID":96,
+    "Text":"Mesquite Lime flavor is the bomb diggity",
+    "Tags":"taste"
+  },
+  {
+    "UID":97,
+    "Text":"My kids like this brand",
+    "Tags":""
+  },
+  {
+    "UID":98,
+    "Text":"Need to reduce your salt intake?",
+    "Tags":"taste"
+  },
+  {
+    "UID":99,
+    "Text":"Overall good quality, rosemary smell",
+    "Tags":"taste"
+  }
+]
